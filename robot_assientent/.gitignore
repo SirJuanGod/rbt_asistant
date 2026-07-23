@@ -1,3 +1,21 @@
-.pio
-.vscode/*
-.cache/*
+# PlatformIO Build Artifacts & Temporary Files
+.pio/
+.pioenvs/
+.piolibdeps/
+compile_commands.json
+
+# IDE Configurations
+.vscode/
+.cache/
+.idea/
+*.workspace
+
+# Compiled Binary & Object Files
+*.elf
+*.bin
+*.hex
+*.o
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
