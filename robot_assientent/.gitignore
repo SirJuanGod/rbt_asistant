@@ -6,7 +6,7 @@ compile_commands.json
 
 # IDE Configurations
 .vscode/
-.cache/
+.cache/clangd
 .idea/
 *.workspace
 
